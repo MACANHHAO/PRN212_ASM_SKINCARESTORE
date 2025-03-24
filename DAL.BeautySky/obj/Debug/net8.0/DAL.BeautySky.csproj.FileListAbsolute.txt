@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\bin\Debug\net8.0\DAL.BeautySky.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\bin\Debug\net8.0\DAL.BeautySky.runtimeconfig.json
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\bin\Debug\net8.0\DAL.BeautySky.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\bin\Debug\net8.0\DAL.BeautySky.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\refint\DAL.BeautySky.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\DAL.BeautySky.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\BeautySky\DAL.BeautySky\obj\Debug\net8.0\ref\DAL.BeautySky.dll
